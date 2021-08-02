@@ -1,24 +1,12 @@
-# notes-app
+# Simple app with material designed notes. Built on *Vue.js* and *SCSS*
 
-## Project setup
-```
-npm install
-```
+## Usage
+  * Enter the _**"title"**_ and _**"description"**_, then choose preferred _**color**_.
+  * You can _**"Star"**_ a note to highlight it.
+  * _**"Discard"**_, well discards selected note.
+  
+#Try it! -
+https://jarsey45.github.io/NotesApp/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Copyright
+Bartłomiej Kowalczyk 2021
