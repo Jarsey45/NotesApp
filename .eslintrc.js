@@ -3,6 +3,7 @@ module.exports = {
   env: {
     node: true
   },
+  lintOnSave: false,
   extends: [
     'plugin:vue/vue3-essential',
     '@vue/standard'

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+$font-family: 'Quicksand', sans-serif;
+$background-color: #fff;
+$note-width: 150px;
+
+
+@mixin getColor($theme){
+  @if $theme == #fff{
+    color: #111111;
+  } @else {
+    color: #f1f1f1;
+  }
+}
+
+
+@mixin theme($theme: white){
+  background-color: $theme;
+  box-shadow: 0 0 1px rgba($theme, .25);
+  @include getColor($theme);
+}
+
