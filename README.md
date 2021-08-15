@@ -1,4 +1,4 @@
-# Simple app with material designed notes. Built on *Vue.js* and *SCSS*
+# Simple app with material designed notes. Built with *Vue.js* and *SCSS*
 
 ## Usage
   * Enter the _**"title"**_ and _**"description"**_, then choose preferred _**color**_.
