@@ -5,7 +5,7 @@
   * You can _**"Star"**_ a note to highlight it.
   * _**"Discard"**_, well discards selected note.
   
-# Try it! - [Link](https://jarsey45.github.io/NotesApp/)
+# Try it! — [Link](https://jarsey45.github.io/NotesApp/)
 
 ### Copyright
 Bartłomiej Kowalczyk 2021
