@@ -7,5 +7,5 @@
   
 # Try it! — [Link](https://jarsey45.github.io/NotesApp/)
 
-### Copyright
-Bartłomiej Kowalczyk 2021
+## Author
+#### Bartłomiej Kowalczyk 2021
